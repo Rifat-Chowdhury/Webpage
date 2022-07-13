@@ -8,4 +8,6 @@
 
 [Click here](https://www.linkedin.com/in/rifat-chowdhury-rc/)
 
-![Picture](image.jpg)
+![Picture](something)
+
+
