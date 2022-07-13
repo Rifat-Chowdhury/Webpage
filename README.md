@@ -2,6 +2,10 @@
 
 ## text
 
-**Bold**
+**My changes in things**
 
-*Italic*
+*Sunflower bloomed*
+
+[Click here](https://www.linkedin.com/in/rifat-chowdhury-rc/)
+
+![Picture](image.jpg)
