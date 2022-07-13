@@ -8,6 +8,7 @@
 
 [Click here](https://www.linkedin.com/in/rifat-chowdhury-rc/)
 
-![Picture](something)
+![Picture](something.png)
 
 
+## Made changes
